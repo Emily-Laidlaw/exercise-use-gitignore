@@ -1,5 +1,4 @@
 node_modules/
-
 # User-specific files - Ignores all files starting with the letter z
 z*
 #Ignores a file called .env.
